@@ -1,0 +1,10 @@
+Django==1.4.2
+Mezzanine==1.2.4
+Pillow==1.7.8
+bleach==1.1.5
+django-admin-bootstrapped==0.1.1
+filebrowser-safe==0.2.12
+grappelli-safe==0.2.10
+html5lib==0.95
+pytz==2012h
+wsgiref==0.1.2
